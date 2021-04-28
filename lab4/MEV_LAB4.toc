@@ -1,0 +1,12 @@
+\babel@toc {russian}{}
+\contentsline {section}{\numberline {1}Примеры формул}{2}{section.1}%
+\contentsline {paragraph}{Алгоритм на основе дискретного преобразования Фурье}{2}{section*.2}%
+\contentsline {section}{\numberline {2}Примеры рисунков}{3}{section.2}%
+\contentsline {paragraph}{Непрерывное вейвлет - преобразование}{3}{section*.3}%
+\contentsline {section}{\numberline {3}Примеры таблиц}{4}{section.3}%
+\contentsline {paragraph}{Метод обработки продолжительных записей электрокардиосигналов}{4}{section*.4}%
+\contentsline {section}{\numberline {4}Gnuplot}{6}{section.4}%
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {russian}{}

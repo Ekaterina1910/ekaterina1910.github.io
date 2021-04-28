@@ -1,0 +1,37 @@
+\begin{thebibliography}{1}
+\def\selectlanguageifdefined#1{
+\expandafter\ifx\csname date#1\endcsname\relax
+\else\selectlanguage{#1}\fi}
+\providecommand*{\href}[2]{{\small #2}}
+\providecommand*{\url}[1]{{\small #1}}
+\providecommand*{\BibUrl}[1]{\url{#1}}
+\providecommand{\BibAnnote}[1]{}
+\providecommand*{\BibEmph}[1]{#1}
+\ProvideTextCommandDefault{\cyrdash}{\iflanguage{russian}{\hbox
+  to.8em{--\hss--}}{\textemdash}}
+\providecommand*{\BibDash}{\ifdim\lastskip>0pt\unskip\nobreak\hskip.2em plus
+  0.1em\fi
+\cyrdash\hskip.2em plus 0.1em\ignorespaces}
+\renewcommand{\newblock}{\ignorespaces}
+
+\bibitem{bolanos2006comparison}
+\selectlanguageifdefined{english}
+\BibEmph{Bolanos,~M.} Comparison of heart rate variability signal features
+  derived from electrocardiography and photoplethysmography in healthy
+  individuals~/ M~Bolanos, H~Nazeran, E~Haltiwanger~// 2006 International
+  Conference of the IEEE Engineering in Medicine and Biology Society~/ IEEE.
+  \BibDash
+\newblock 2006. \BibDash
+\newblock P.~4289--4294.
+
+\bibitem{gothwal2011cardiac}
+\selectlanguageifdefined{english}
+Cardiac arrhythmias detection in an ecg beat signal using fast fourier
+  transform and artificial neural network~/ Himanshu~Gothwal, Silky~Kedawat,
+  Rajesh~Kumar et~al.~// \BibEmph{Journal of Biomedical Science and
+  Engineering}. \BibDash
+\newblock 2011. \BibDash
+\newblock Vol.~4, no.~04. \BibDash
+\newblock P.~289.
+
+\end{thebibliography}

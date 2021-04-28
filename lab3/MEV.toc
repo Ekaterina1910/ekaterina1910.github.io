@@ -1,0 +1,4 @@
+\babel@toc {russian}{}
+\contentsline {section}{\numberline {1}Разработка аппаратно-программного комплекса для ритмографии}{2}{}%
+\contentsline {paragraph}{Методы анализа вариабельности сердечного ритма}{2}{}%
+\contentsline {paragraph}{ Применение ритмокардиографии}{3}{}%
